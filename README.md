@@ -1,4 +1,3 @@
-Sure, I can help you create a detailed README file for your ANPR-FRS project. Here's a draft you can use:
 
 ---
 
